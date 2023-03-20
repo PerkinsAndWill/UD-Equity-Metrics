@@ -12,9 +12,10 @@ PW Neighborhood Equity Metrics Dashboard
 ### 3. Get Census data for this area
 - 3.1 Census geocoder API to get geometries
     - get FIPS code
+    
     reference: https://www.census.gov/programs-surveys/geography/technical-documentation/complete-technical-documentation/census-geocoder.html
 - 3.2 Census API to get tables
-     - get FIPS code, 
+     - get FIPS code 
      - get table names
 ### 4. Feature engineering
 ### 5. Area Interpolation
